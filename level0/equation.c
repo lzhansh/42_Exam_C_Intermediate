@@ -36,5 +36,5 @@ void    equation(int n)
 
 //int main()
 //{
-//	equation(0);
+//	equation(42);
 //}
