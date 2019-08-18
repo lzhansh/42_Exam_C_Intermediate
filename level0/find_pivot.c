@@ -36,7 +36,6 @@ int find_pivot(int *arr, int n)
 
 //int main()
 //{
-//	int n = 5;
-//	int arr[5] = {1, 100, 0, 0, 1};
-//	printf("%d\n", find_pivot(arr, n));
+//	int arr[] = {1, 100, 0, 0, 1};
+//	printf("%d\n", find_pivot(arr, 5));
 //}
